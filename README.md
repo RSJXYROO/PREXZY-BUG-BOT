@@ -1,4 +1,4 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> RiiXploit </h1>
 <p align="center">  
   
 ***
